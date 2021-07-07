@@ -7,3 +7,4 @@ A humanitarian crisis (or "humanitarian disaster") is defined as a singular even
 
 Source: 
  1) "What Is a Humanitarian Crisis", Humanitarian Coalition, Retrieved on 6 May 2013.
+ 2) http://data.gdeltproject.org/documentation/CAMEO.Manual.1.1b3.pdf
